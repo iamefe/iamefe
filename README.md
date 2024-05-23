@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Oserefemhen Ativie
-- 👀 I’m a full-stack Web Developer, Blockchain Developer and Senior Product Designer
+I’m a full-stack Web Developer, Blockchain Developer and Senior Product Designer
 
 ## My Product Design portfolio
   - Case studies - efeativie.com
   - Figm community contributions - figma.com/@efe
 
 ## Let's work together
-- 💞️ I’m looking to collaborate on web development projects and UI/UX/Product Design projects
-- 📫 How to reach me - efeativie@gmail.com
+💞️ I’m looking to collaborate on web development projects and UI/UX/Product Design projects
+📫 How to reach me - efeativie@gmail.com
 
 <!---
 iamefe/iamefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
