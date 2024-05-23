@@ -2,8 +2,8 @@
 I’m a full-stack Web Developer, Blockchain Developer and Senior Product Designer
 
 ## My Product Design portfolio
-  - Case studies - efeativie.com
-  - Figm community contributions - figma.com/@efe
+  - Case studies - https://efeativie.com
+  - Figm community contributions - https://figma.com/@efe
 
 ## Let's work together
 💞️ I’m looking to collaborate on web development projects and UI/UX/Product Design projects
