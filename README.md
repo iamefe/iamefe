@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Oserefemhen Ativie
-I’m a full-stack Web Developer, Blockchain Developer and Senior Product Designer
+Full-stack Web Developer, Blockchain Developer and Senior Product Designer
 at https://creativeferry.org
 
 ## Links
