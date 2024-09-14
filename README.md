@@ -2,8 +2,8 @@
 I’m a full-stack Web Developer, Blockchain Developer and Senior Product Designer
 at https://creativeferry.org
 
-## My Product Design portfolio
-  - Case studies - https://efeativie.com
+## Links
+  - Personal website - https://efeativie.com
   - Figm community contributions - https://figma.com/@efe
 
 ## Let's work together
