@@ -8,7 +8,10 @@ at [Creative Ferry](https://creativeferry.org)
   - [Figma community profile](https://figma.com/@efe)
 
 ## Let's work together
-I’m looking to collaborate on blockchain projects, web development projects and UI/UX/Product Design projects
+- Blockchain projects (Solidity)
+- Front-end web development projects (React and Next.js)
+- Back-end projects (Nest.js and Hono.js)
+- UI/UX/Product Design projects (Figma)
 
 ## 📫 How to reach me 
 efeativie@gmail.com
