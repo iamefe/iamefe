@@ -5,7 +5,7 @@ at [Creative Ferry](https://creativeferry.org)
 
 ## Links
   - [Personal website](https://efeativie.com)
-  - [Figm community contributions](https://figma.com/@efe)
+  - [Figma community profile](https://figma.com/@efe)
 
 ## Let's work together
 I’m looking to collaborate on blockchain projects, web development projects and UI/UX/Product Design projects
