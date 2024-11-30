@@ -1,13 +1,20 @@
 # 👋 Hello, World! I'm **Oserefemhen Ativie** 
 > 🚀 *Building the future of the web, one block at a time.*
 
-![GitHub followers](https://img.shields.io/github/followers/efeativie?style=social)
-![GitHub stars](https://img.shields.io/github/stars/efeativie?style=social)
+![Repositories](https://img.shields.io/badge/Repositories-50+-blue?style=for-the-badge&logo=github)  
+![Rust](https://img.shields.io/badge/Language-Rust-black?style=for-the-badge&logo=rust)  
+![Solidity](https://img.shields.io/badge/Language-Solidity-gray?style=for-the-badge&logo=ethereum)  
+![Next.js](https://img.shields.io/badge/Framework-Nextjs-yellow?style=for-the-badge&logo=next.js)  
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript)  
+![Svelte](https://img.shields.io/badge/Language-Svelte-orange?style=for-the-badge&logo=svelte)
+
+
+---
 
 ## 🌟 About Me  
-- 🔹 **Full-Stack Web Developer** | **Blockchain Developer** | **Senior Product Designer**  
+- **Full-Stack Web Developer** | **Blockchain Developer** | **Senior Product Designer**  
   at [Creative Ferry](https://creativeferry.org)  
-- 🔹 **Smart Contract Auditor** at [Cyfrin CodeHawks](https://codehawks.cyfrin.io/)  
+- **Smart Contract Auditor** at [Cyfrin CodeHawks](https://codehawks.cyfrin.io/)  
 
 I specialize in creating seamless user experiences, crafting robust blockchain solutions, and auditing smart contracts for security and performance. 🌐💻
 
@@ -38,6 +45,7 @@ Got an idea or a project? Let's bring it to life! 🚀
 ---
 
 ### ✨ _"The only limit to our realization of tomorrow is our doubts of today."_ – F.D.R
+``
 
 
 <!---
