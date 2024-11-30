@@ -9,7 +9,6 @@
 ![Svelte](https://img.shields.io/badge/Language-Svelte-orange?style=for-the-badge&logo=svelte)
 
 
----
 
 ## 🌟 About Me  
 - **Full-Stack Web Developer** | **Blockchain Developer** | **Senior Product Designer**  
@@ -18,13 +17,12 @@
 
 I specialize in creating seamless user experiences, crafting robust blockchain solutions, and auditing smart contracts for security and performance. 🌐💻
 
----
+
 
 ## 🔗 Links
 - 🖥️ [**Personal Website**](https://efeativie.com)  
 - 🎨 [**Figma Community Profile**](https://figma.com/@efe)  
 
----
 
 ## 🤝 Let's Collaborate!
 ### I can help you with:  
@@ -35,14 +33,14 @@ I specialize in creating seamless user experiences, crafting robust blockchain s
 
 Got an idea or a project? Let's bring it to life! 🚀  
 
----
+
 
 ## 📫 Reach Out!
 ✉️ **Email**: [efeativie@gmail.com](mailto:efeativie@gmail.com)  
 
 📬 Always open to discussing innovative ideas, collaboration opportunities, or just geeking out about tech!  
 
----
+
 
 ### ✨ _"The only limit to our realization of tomorrow is our doubts of today."_ – F.D.R
 ``
