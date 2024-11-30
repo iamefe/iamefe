@@ -2,28 +2,35 @@ name: Update Repository Count in README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows you to trigger manually
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch: # Allows you to trigger it manually from the GitHub UI
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Step 2: Fetch Repository Count
       - name: Fetch Repository Count
         id: repo_count
         run: |
-          REPO_COUNT=$(curl -s https://api.github.com/users/efeativie | jq '.public_repos')
+          # Fetch the number of public repositories
+          REPO_COUNT=$(curl -s https://api.github.com/users/iamefe | jq '.public_repos')
+          # Output the count as a step output
           echo "::set-output name=count::$REPO_COUNT"
 
+      # Step 3: Update the README with the new repository count
       - name: Update README
         run: |
+          # Replace the placeholder "Repositories-XX" in the README file with the actual count
           sed -i "s/Repositories-XX/Repositories-${{ steps.repo_count.outputs.count }}/" README.md
 
-      - name: Commit Changes
+      # Step 4: Commit and push changes to the README file
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
