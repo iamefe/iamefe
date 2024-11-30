@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm **Oserefemhen Ativie** 
 > 🚀 *Building the future of the web, one block at a time.*
 
-![Repositories](https://img.shields.io/badge/Repositories-null-blue?style=for-the-badge&logo=github) 
+![Repositories](https://img.shields.io/badge/Repositories-XX-blue?style=for-the-badge&logo=github)
 ![Rust](https://img.shields.io/badge/Language-Rust-black?style=for-the-badge&logo=rust)  
 ![Solidity](https://img.shields.io/badge/Language-Solidity-gray?style=for-the-badge&logo=ethereum)  
 ![Next.js](https://img.shields.io/badge/Framework-Nextjs-yellow?style=for-the-badge&logo=next.js)  
